@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+
+# Dataset mentah berukuran besar
+data/events.csv
+data/item_properties_part1.csv
+data/item_properties_part2.csv
+ecommerce-dataset.zip
